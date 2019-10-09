@@ -1,5 +1,5 @@
 # WaffleWords2
-A Python program for finding waffle words
+A Python program for finding waffle words.
 
 wafflewords.py takes as input an integer, N, and outputs "waffle words" that are of length N. Waffle words have the following qualities:
 
